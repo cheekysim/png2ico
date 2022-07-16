@@ -9,7 +9,8 @@ File extension does not matter, as long as it is an image.
 You do not need every file size, it will automatically pick the ones you have.
 
 # Download
-Simply click ICO Converter.exe then click the "Download" button.
+
+https://github.com/cheekysim/png2ico/blob/master/ICO%20Converter.exe?raw=true
 
 
 Made By cheekysim
